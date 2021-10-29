@@ -1,0 +1,43 @@
+.heading{
+  text-align: center;
+  background-color: rgb(122, 128, 134);
+  border-radius: 10px;
+  font-family: serif;
+  color: white;
+  font-weight: bold;
+}
+body{
+  margin:10%;
+}
+
+.container{
+  width: 90%;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.heading h6{
+  font-family: Arial;
+}
+.card-body{
+  font-weight:bold;
+  color:black;
+  font-family: Arial;
+  justify-content: space-between;
+}
+
+input{
+  margin-left: 2%;
+  margin-bottom: 2%;
+  height: 25px;
+
+}
+.btn-light{
+  background-color:rgb(238, 237, 237);
+  border-radius: 10px;
+}
+.btn-success{
+  background-color: rgb(182, 235, 245);
+  border-radius: 10px;
+}
+
